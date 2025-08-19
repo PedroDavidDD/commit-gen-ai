@@ -42,6 +42,8 @@ Una herramienta de línea de comandos que te ayuda a generar mensajes de commit 
    QWEN_API_KEY=tu_api_key_aquí
    ```
 
+Video de como obtener la API: https://www.youtube.com/watch?v=nMB5EIxLphg&t=635s 
+
 ## 🛠 Uso
 
 Ejecuta el script:
