@@ -67,6 +67,33 @@ python commit-gen-ai.py
    - Gestión de ramas
    - Manejo de stashes
    - Enviar/recibir cambios
+´´´
+==================================================
+Main Menu / Menú Principal
+==================================================
+1. Git Management / Gestión de Git
+2. Create a new commit / Crear un nuevo commit
+3. Rename last commit / Renombrar el último commit
+4. Edit specific commit by ID / Editar commit específico por ID
+5. Exit / Salir
+
+Enter your choice (1-5): 1
+
+==================================================
+Git Management Menu / Menú de Gestión de Git
+==================================================
+1. Repository Status / Estado del Repositorio
+2. Add Changes to Staging / Añadir Cambios al Staging
+3. Undo Changes / Deshacer Cambios
+4. Push Changes / Subir Cambios
+5. Pull Changes / Descargar Cambios
+6. Branch Management / Gestión de Ramas
+7. Stash Management / Gestión de Stash
+8. Revert Last Commit / Revertir Último Commit
+9. Return to Main Menu / Volver al Menú Principal
+
+Enter your choice (1-9):
+´´´
 
 ## 📚 Formato del Mensaje de Commit
 
