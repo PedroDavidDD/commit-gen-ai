@@ -67,7 +67,8 @@ python commit-gen-ai.py
    - Gestión de ramas
    - Manejo de stashes
    - Enviar/recibir cambios
-´´´
+
+```
 ==================================================
 Main Menu / Menú Principal
 ==================================================
@@ -93,7 +94,7 @@ Git Management Menu / Menú de Gestión de Git
 9. Return to Main Menu / Volver al Menú Principal
 
 Enter your choice (1-9):
-´´´
+```
 
 ## 📚 Formato del Mensaje de Commit
 
